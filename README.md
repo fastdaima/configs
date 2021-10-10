@@ -1,4 +1,4 @@
-# vim_configs
+# vim_configs | lxde_rc configs
 collection of vim config files taken from github, with minor changes according to my wish 
 
 
